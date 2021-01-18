@@ -1,0 +1,14 @@
+{
+	"UserId": 1,
+	"Item": {
+		"Id": 5,
+		"Code": 222,
+		"Name": "test"
+	},
+	"ItemCount": 1,
+	"Company": {
+		"Id": 5,
+		"Code": 1,
+		"Name": "test"
+	}
+}

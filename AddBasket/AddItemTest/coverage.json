@@ -1,0 +1,1094 @@
+{
+  "AddBasket.dll": {
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Middleware\\LoggingMiddleware.cs": {
+      "WebApi.Middleware.LoggingMiddleware": {
+        "System.Void WebApi.Middleware.LoggingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILoggerFactory)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "WebApi.Middleware.LoggingMiddleware/<Invoke>d__3": {
+        "System.Void WebApi.Middleware.LoggingMiddleware/<Invoke>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 229,
+              "EndOffset": 234,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 229,
+              "EndOffset": 443,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 647,
+              "EndOffset": 653,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 647,
+              "EndOffset": 654,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 659,
+              "EndOffset": 665,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 659,
+              "EndOffset": 677,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 951,
+              "EndOffset": 953,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 951,
+              "EndOffset": 978,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Program.cs": {
+      "AddBasket.Program": {
+        "System.Void AddBasket.Program::Main(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder AddBasket.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Startup.cs": {
+      "AddBasket.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration AddBasket.Startup::get_Configuration()": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "58": 0
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "74": 0,
+            "76": 0,
+            "78": 0,
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void AddBasket.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Repository\\BasketRepository.cs": {
+      "AddBasket.Repository.BasketRepository": {
+        "System.Void AddBasket.Repository.BasketRepository::CreateorUpdateBasket(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 15,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void AddBasket.Repository.BasketRepository::CreateBasket(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Repository.BasketRepository::UpdateBasket(AddBasket.Models.DTOs.AddedItemDTO,AddBasket.Entities.Basket)": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        },
+        "AddBasket.Entities.Basket AddBasket.Repository.BasketRepository::CheckSameItemExists(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<AddBasket.Models.DTOs.BasketDTO> AddBasket.Repository.BasketRepository::GetUserBasket(System.Int32)": {
+          "Lines": {
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Repository.BasketRepository::.ctor(AddBasket.Entities.ApiContext,AutoMapper.IMapper)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Repository\\ItemRepository.cs": {
+      "AddBasket.Repository.ItemRepository": {
+        "System.Boolean AddBasket.Repository.ItemRepository::StockCheck(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2,
+            "23": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 340,
+              "EndOffset": 342,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 22,
+              "Offset": 340,
+              "EndOffset": 347,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void AddBasket.Repository.ItemRepository::UpdateCompanyStock(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "32": 1,
+            "33": 1,
+            "35": 1
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Repository.ItemRepository::.ctor(AddBasket.Entities.ApiContext)": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 3,
+            "17": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Repository\\UserRepository.cs": {
+      "AddBasket.Repository.UserRepository": {
+        "System.Boolean AddBasket.Repository.UserRepository::UserExist(System.Nullable`1<System.Int32>)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 0,
+            "23": 1,
+            "25": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 142,
+              "EndOffset": 144,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 142,
+              "EndOffset": 149,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void AddBasket.Repository.UserRepository::.ctor(AddBasket.Entities.ApiContext)": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\UserBasketResponseDTO.cs": {
+      "AddBasket.Models.UserBasketResponseDTO": {
+        "System.Int32 AddBasket.Models.UserBasketResponseDTO::get_UserId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Models.UserBasketResponseDTO::get_UserName()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<AddBasket.Models.DTOs.BasketDTO> AddBasket.Models.UserBasketResponseDTO::get_Items()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\WebApiResponse.cs": {
+      "AddBasket.Models.WebApiResponse": {
+        "System.Int32 AddBasket.Models.WebApiResponse::get_StatusCode()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean AddBasket.Models.WebApiResponse::get_Status()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "AddBasket.Models.UserBasketResponseDTO AddBasket.Models.WebApiResponse::get_UserCurrentBasket()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\DTOs\\AddedItemDTO.cs": {
+      "AddBasket.Models.DTOs.AddedItemDTO": {
+        "System.Int32 AddBasket.Models.DTOs.AddedItemDTO::get_UserId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "AddBasket.Models.DTOs.ItemDTO AddBasket.Models.DTOs.AddedItemDTO::get_Item()": {
+          "Lines": {
+            "13": 15
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> AddBasket.Models.DTOs.AddedItemDTO::get_ItemCount()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "AddBasket.Models.DTOs.CompanyDTO AddBasket.Models.DTOs.AddedItemDTO::get_Company()": {
+          "Lines": {
+            "15": 11
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\DTOs\\BaseDTO.cs": {
+      "AddBasket.Models.DTOs.BaseDTO": {
+        "System.Int32 AddBasket.Models.DTOs.BaseDTO::get_Id()": {
+          "Lines": {
+            "12": 19
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Models.DTOs.BaseDTO::get_Code()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Models.DTOs.BaseDTO::get_Name()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\DTOs\\BasketDTO.cs": {
+      "AddBasket.Models.DTOs.BasketDTO": {
+        "System.Int32 AddBasket.Models.DTOs.BasketDTO::get_Id()": {
+          "Lines": {
+            "10": 5
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Models.DTOs.BasketDTO::get_ItemId()": {
+          "Lines": {
+            "11": 7
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Models.DTOs.BasketDTO::get_ItemName()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Models.DTOs.BasketDTO::get_ItemCount()": {
+          "Lines": {
+            "13": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Models\\DTOs\\ItemDTO.cs": {
+      "AddBasket.Models.DTOs.ItemDTO": {
+        "System.Double AddBasket.Models.DTOs.ItemDTO::get_Price()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Middleware\\ErrorHandlerMiddleware.cs": {
+      "AddBasket.Middleware.ErrorHandlerMiddleware": {
+        "System.Void AddBasket.Middleware.ErrorHandlerMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "AddBasket.Middleware.ErrorHandlerMiddleware/<Invoke>d__2": {
+        "System.Void AddBasket.Middleware.ErrorHandlerMiddleware/<Invoke>d__2::MoveNext()": {
+          "Lines": {
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "36": 0,
+            "37": 0,
+            "40": 0,
+            "41": 0,
+            "44": 0,
+            "45": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 283,
+              "EndOffset": 314,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 308,
+              "EndOffset": 335,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 308,
+              "EndOffset": 354,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 402,
+              "EndOffset": 404,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 402,
+              "EndOffset": 408,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Helpers\\AppException.cs": {
+      "AddBasket.Helpers.AppException": {
+        "System.Void AddBasket.Helpers.AppException::.ctor()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Helpers.AppException::.ctor(System.String)": {
+          "Lines": {
+            "16": 6
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Helpers.AppException::.ctor(System.String,System.Object[])": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\ApiContext.cs": {
+      "AddBasket.Entities.ApiContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<AddBasket.Entities.Basket> AddBasket.Entities.ApiContext::get_Basket()": {
+          "Lines": {
+            "16": 15
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<AddBasket.Entities.Company> AddBasket.Entities.ApiContext::get_Company()": {
+          "Lines": {
+            "17": 18
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<AddBasket.Entities.CompanyItem> AddBasket.Entities.ApiContext::get_CompanyItem()": {
+          "Lines": {
+            "18": 26
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<AddBasket.Entities.Item> AddBasket.Entities.ApiContext::get_Item()": {
+          "Lines": {
+            "19": 18
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<AddBasket.Entities.User> AddBasket.Entities.ApiContext::get_User()": {
+          "Lines": {
+            "20": 19
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Entities.ApiContext::LoadTestDBData(System.Nullable`1<System.Int32>)": {
+          "Lines": {
+            "23": 2,
+            "24": 12,
+            "25": 4,
+            "26": 4,
+            "27": 4,
+            "28": 4,
+            "29": 4,
+            "30": 4,
+            "31": 4,
+            "32": 4,
+            "33": 4,
+            "35": 4,
+            "36": 4,
+            "37": 4,
+            "38": 4,
+            "39": 4,
+            "40": 4,
+            "41": 4,
+            "43": 4,
+            "44": 4,
+            "45": 4,
+            "46": 4,
+            "47": 4,
+            "48": 4,
+            "49": 4,
+            "50": 4,
+            "51": 4,
+            "63": 4,
+            "64": 4,
+            "65": 4,
+            "66": 4,
+            "67": 4,
+            "68": 4,
+            "69": 4,
+            "70": 4,
+            "71": 4,
+            "72": 4,
+            "73": 4,
+            "75": 4,
+            "76": 2
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 331,
+              "EndOffset": 8,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 24,
+              "Offset": 331,
+              "EndOffset": 336,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void AddBasket.Entities.ApiContext::LoadUserBasketTestData(System.Nullable`1<System.Int32>)": {
+          "Lines": {
+            "78": 2,
+            "79": 8,
+            "80": 2,
+            "81": 2,
+            "82": 2,
+            "83": 2,
+            "84": 2,
+            "85": 2,
+            "86": 2,
+            "87": 2,
+            "88": 2,
+            "90": 2,
+            "91": 2,
+            "92": 2,
+            "93": 2,
+            "94": 2,
+            "95": 2,
+            "96": 2,
+            "98": 2,
+            "99": 2,
+            "100": 2,
+            "101": 2,
+            "102": 2,
+            "103": 2,
+            "104": 2,
+            "105": 2,
+            "106": 2,
+            "108": 2,
+            "109": 2,
+            "110": 2,
+            "111": 2,
+            "112": 2,
+            "113": 2,
+            "114": 2,
+            "115": 2,
+            "116": 2,
+            "118": 2,
+            "119": 2,
+            "120": 2,
+            "121": 2,
+            "122": 2,
+            "123": 2,
+            "124": 2,
+            "125": 2,
+            "126": 2,
+            "127": 2,
+            "128": 2,
+            "130": 2,
+            "131": 2
+          },
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 391,
+              "EndOffset": 8,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 79,
+              "Offset": 391,
+              "EndOffset": 396,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void AddBasket.Entities.ApiContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<AddBasket.Entities.ApiContext>)": {
+          "Lines": {
+            "11": 12,
+            "12": 12,
+            "14": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\Basket.cs": {
+      "AddBasket.Entities.Basket": {
+        "System.Int32 AddBasket.Entities.Basket::get_Id()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.Basket::get_ItemId()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.Basket::get_ItemCount()": {
+          "Lines": {
+            "12": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.Basket::get_UserId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\Company.cs": {
+      "AddBasket.Entities.Company": {
+        "System.Int32 AddBasket.Entities.Company::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Company::get_Name()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Company::get_Address()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Company::get_OtherInfo()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\CompanyItem.cs": {
+      "AddBasket.Entities.CompanyItem": {
+        "System.Int32 AddBasket.Entities.CompanyItem::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.CompanyItem::get_ItemId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.CompanyItem::get_CompanyId()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.CompanyItem::get_Stock()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        },
+        "System.Double AddBasket.Entities.CompanyItem::get_Price()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\Item.cs": {
+      "AddBasket.Entities.Item": {
+        "System.Int32 AddBasket.Entities.Item::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 AddBasket.Entities.Item::get_Code()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Item::get_Name()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\Log.cs": {
+      "AddBasket.Entities.Log": {
+        "System.String AddBasket.Entities.Log::get_Path()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Log::get_QueryString()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Log::get_Method()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Log::get_Payload()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Log::get_Response()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.Log::get_ResponseCode()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime AddBasket.Entities.Log::get_RequestedOn()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime AddBasket.Entities.Log::get_RespondedOn()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean AddBasket.Entities.Log::get_IsSuccessStatusCode()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Entities\\User.cs": {
+      "AddBasket.Entities.User": {
+        "System.Int32 AddBasket.Entities.User::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String AddBasket.Entities.User::get_Name()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Controllers\\BasketController.cs": {
+      "AddBasket.Controllers.BasketController": {
+        "System.Collections.Generic.List`1<AddBasket.Models.DTOs.BasketDTO> AddBasket.Controllers.BasketController::Post(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Controllers.BasketController::.ctor(AddBasket.Business.Services.IBasketService)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Gizos Power\\OneDrive\\Masaüstü\\AddBasketTask\\AddBasket\\Business\\Services\\BasketService.cs": {
+      "AddBasket.Business.Services.BasketService": {
+        "System.Collections.Generic.List`1<AddBasket.Models.DTOs.BasketDTO> AddBasket.Business.Services.BasketService::AddItem(AddBasket.Models.DTOs.AddedItemDTO)": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "39": 1,
+            "41": 1,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "49": 1
+          },
+          "Branches": []
+        },
+        "System.Void AddBasket.Business.Services.BasketService::.ctor(AddBasket.Repository.IBasketRepository,AddBasket.Repository.IUserRepository,AddBasket.Repository.IItemRepository,AddBasket.Entities.ApiContext)": {
+          "Lines": {
+            "20": 7,
+            "21": 7,
+            "22": 7,
+            "23": 7,
+            "24": 7,
+            "25": 7,
+            "26": 7
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
